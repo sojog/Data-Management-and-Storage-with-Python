@@ -1,0 +1,4 @@
+1 Just gotta finishing setting interface for the adapter revenue
+2 I spent a lot of time setting up the flux temporal
+3 I only had an error while configuring the velocity distortion
+4 You have to fix the secondary modulation

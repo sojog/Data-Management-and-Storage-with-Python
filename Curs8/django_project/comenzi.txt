@@ -1,0 +1,35 @@
+## Instalare Django
+    
+    # pe Windows
+    pip install Django
+    # sau
+    python -m pip install Django
+
+     # pe Mac
+    pip3 install Django
+    # sau
+    python3 -m pip install Django
+
+## Verificare Django
+
+    # pe Windows
+    python -m Django --version
+
+    # pe Mac
+    python3 -m Django --version
+
+## Creare Proiect Django
+
+    # pe Windows
+    python -m django startproject   numeleproiectului
+
+    # pe Mac
+    python3 -m Django  startproject   numeleproiectului
+
+## Rulare Proiect Django
+
+     # pe Windows
+    python manage.py   runserver
+
+    # pe Mac
+    python3 manage.py   runserver
